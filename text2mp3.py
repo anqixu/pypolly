@@ -68,5 +68,3 @@ def main():
   save_mp3_stream(mp3_stream, 'polly_output.mp3')
 
 main()
-
-# TODO: commit
